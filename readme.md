@@ -11,7 +11,7 @@ nginx
 - Cd to folder products and:
 	
 	+ Clone laradock: git clone https://github.com/Laradock/laradock.git
-	+ Clone project: git clone http://git.deha.vn:1080/dehasoft/decore-training-php-laravel.git source
+	+ Clone project: git clone https://github.com/quangtrungitnn/doantotnghiep.git source
 
 - Config project:
 	+ cd to folder source and copy .env.example to .env: cp .env.example .env
